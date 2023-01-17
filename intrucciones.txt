@@ -1,0 +1,2 @@
+Para lanzar el test, creamos el proyyecto con ng new proyecto y lanzamos ng test
+Nos dará el testeo por defecto(los 3)
